@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welocm%20to%20Dongwon's%20Github!&animation=fadeIn&fontSize=50" />
 </div>
 
-<div align="center"><h1>💻 Tech Stack</h1></div>
+🏫 Kookmin University
+🧑🏻‍💻 Software
+
+
+<div align="center"><h3>🛠 Tech Stack</h3></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -24,7 +28,7 @@
 </div>
 
 
-<div align="center"><h1>👇🏼 Look Around </h1></div>
+<div align="center"><h3>👇🏼 Look Around </h3></div>
 <div align="center">
   <a href="https://velog.io/@dongwon0103" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.instagram.com/2ast._.one/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
