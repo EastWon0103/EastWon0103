@@ -1,6 +1,6 @@
 <div align="center"><h1> 👋 Welcom to Dongwon's Gihub! </h1></center>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welocm_to_Dongwon's_Github!&fontSize=90" />
 
 <div align="center"><h3>💻 Tech Stack</h3></div>
 
