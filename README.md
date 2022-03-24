@@ -2,8 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welocm%20to%20Dongwon's%20Github!&animation=fadeIn&fontSize=50" />
 </div>
 
+#Basic Info
 🏫 Kookmin University
+
 🧑🏻‍💻 Software
+
+
+
 
 
 <div align="center"><h3>🛠 Tech Stack</h3></div>
