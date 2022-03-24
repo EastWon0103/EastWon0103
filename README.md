@@ -10,8 +10,8 @@
 💭 I want to Fullstack Dev.
 
 # Career
-- 2019: Jimkimi
-- 2020: Kookmin MetaVerse
+- 2021: Jimkimi Developer
+- 2021: Kookmin MetaVerse Intership
 
 
 
