@@ -9,6 +9,9 @@
 
 💭 I want to Fullstack Dev.
 
+<br> </br>
+
+
 # Career
 - 2021: Jimkimi Developer
 - 2021: Kookmin MetaVerse Intership
