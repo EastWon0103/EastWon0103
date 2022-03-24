@@ -1,4 +1,4 @@
-<div align="center"> 👋 Welcom to Dongwon's Gihub!</center>
+<div align="center"><h1> 👋 Welcom to Dongwon's Gihub! </h1></center>
 
 
 <div align="center"> 💻 Tech Stack</div>
