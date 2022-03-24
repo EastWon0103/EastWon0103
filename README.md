@@ -1,7 +1,7 @@
 <div align="center"><h1> 👋 Welcom to Dongwon's Gihub! </h1></center>
 
 
-<div align="center"> 💻 Tech Stack</div>
+<div align="center"><h3>💻 Tech Stack</h3></div>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
