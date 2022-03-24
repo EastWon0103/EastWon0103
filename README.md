@@ -1,4 +1,15 @@
-<center> Tech Stack </center>
+### Tech Stack 💻 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
