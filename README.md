@@ -4,7 +4,7 @@
 
 # Career
 - 2021: Jimkimi Developer
-- 2021: Kookmin MetaVerse Intership
+- 2021: Kookmin Metaverse Intership
 
 <div align="center"><h3>🛠 Tech Stack</h3></div>
 
