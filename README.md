@@ -5,6 +5,7 @@
 # Career
 - 2021: Jimkimi Developer
 - 2021: Kookmin Metaverse Intership
+- 2022: GDSC Kookmin Backend Member
 
 <div align="center"><h3>🛠 Tech Stack</h3></div>
 
