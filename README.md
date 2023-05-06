@@ -5,7 +5,9 @@
 # Career
 - 2021: Jimkimi Developer
 - 2021: Kookmin Metaverse Internship
+- 2022: DDD Crossplatform
 - 2022: GDSC Kookmin Backend Member
+- 2023: INSPIEN
 
 <div align="center"><h3>🛠 Tech Stack</h3></div>
 
