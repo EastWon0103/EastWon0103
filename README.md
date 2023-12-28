@@ -10,6 +10,9 @@
 - 2023: INSPIEN Intern
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dongwon0103)](https://velog.io/@dongwon0103) 
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastWon0103&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/EastWon0103/github-readme-stats)
+
 <div align="center"><h3>👇🏼 Look Around </h3></div>
 <div align="center">
   <a href="https://velog.io/@dongwon0103" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
