@@ -8,7 +8,7 @@
 
 
 # ⚡️ Stat
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastWon0103&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/EastWon0103/github-readme-stats)
+[![DongWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastWon0103&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/EastWon0103/github-readme-stats)
 
 
 # 📝 Log
