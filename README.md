@@ -29,3 +29,6 @@
   <a href="https://www.instagram.com/2ast._.one/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:dongwon000103@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
+
+
+![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=C0C0C0&height=300)
