@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=300&section=header&text=Welcome%20to%20Dongwon's%20Github!&animation=fadeIn&fontSize=50" />
 </div>
 
-# 🤟🏻 philosophy
+# 🤟🏻 philosophy: People
 > 사람들에게 긍정적 영향력을 끼치는 사람
 
 긍정적 영향력을 올리기 위해 `SW Quality`가 중요    
