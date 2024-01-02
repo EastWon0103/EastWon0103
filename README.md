@@ -5,8 +5,8 @@
 # 🤟🏻 philosophy
 > 사람들에게 긍정적 영향력을 끼치는 사람
 
-긍정적 영향력을 올리기 위해 SW Quality가 중요    
-SW Quality를 만족하기 위해 팀워크 / 설계 / 코드 등의 도구들을 사용
+긍정적 영향력을 올리기 위해 `SW Quality`가 중요    
+`SW Quality`를 만족하기 위해 `팀워크 / 설계 / 코드` 등의 도구들을 사용
 
 # 💭 I'm focus on..
 - design more than code
