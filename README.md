@@ -2,30 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=300&section=header&text=Welcome%20to%20Dongwon's%20Github!&animation=fadeIn&fontSize=50" />
 </div>
 
-# 🤟🏻 Philosophy: People
-> 사람들에게 긍정적 영향력을 끼치는 사람
-
-긍정적 영향력을 끼치기 위해 `SW Quality`가 중요    
-`SW Quality`를 만족하기 위해 `팀워크 / 설계 / 코드` 등의 도구들을 사용
-
 # 💭 I'm focus on..
 - design more than code
 - cooperation more than technology
 
 
-# ⚡️ Stat
-[![DongWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=EastWon0103&include_all_commits=true&show_icons=true&theme=graywhite)](https://github.com/EastWon0103/github-readme-stats)
-
-
-# 📝 Log
+# Log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dongwon0103)](https://velog.io/@dongwon0103) 
 
 
-# 👨🏻‍💻 Career
-- 2021: Jimkimi Developer
-- 2022: DDD Cross Platform Team
-- 2022: GDSC Kookmin Backend Member
-- 2023: INSPIEN Intern
+# Career
+- 2021.09~2021.11: Jimkimi Developer
+- 2022.04~2022.06: DDD Cross Platform Team
+- 2022.10~2023.04: GDSC Kookmin Backend Member
+- 2022.12~2023.02: INSPIEN Intern
+- 2023.12~2024.06: Shinhan Security Pro Digital Academy
+- 2024.07~2024.08: Shinhan Security Intern
 
 
 <div align="center"><h3>👇🏼 Look Around </h3></div>
@@ -34,6 +26,3 @@
   <a href="https://www.instagram.com/2ast._.one/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:dongwon000103@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
-
-
-![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=C0C0C0&height=300)
