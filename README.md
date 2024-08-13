@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=300&section=header&text=Welcome%20to%20Dongwon's%20Github!&animation=fadeIn&fontSize=50" />
 </div>
 
-# 💭 I'm focus on..
-- design more than code
-- cooperation more than technology
-
+# I'm focus on..
+- SW Design more than code
+- Cooperation more than technology
 
 # Log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dongwon0103)](https://velog.io/@dongwon0103) 
