@@ -11,13 +11,7 @@
 
 
 # Career
-- 2021.09~2021.11: Jimkimi Developer
-- 2022.04~2022.06: DDD Cross Platform Team
-- 2022.10~2023.04: GDSC Kookmin Backend Member
-- 2022.12~2023.02: INSPIEN Intern
-- 2023.12~2024.06: Shinhan Security Pro Digital Academy
-- 2024.07~2024.08: Shinhan Security Intern
-
+> 블라인드를 위해 잠시 가려놓았습니다.
 
 <div align="center"><h3>👇🏼 Look Around </h3></div>
 <div align="center">
