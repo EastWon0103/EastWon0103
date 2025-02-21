@@ -11,7 +11,7 @@
 
 
 # Career
-> 블라인드를 위해 잠시 가려놓았습니다.
+> Koscom: PowerBase Trading Services Team (25.01 ~ now)
 
 <div align="center"><h3>👇🏼 Look Around </h3></div>
 <div align="center">
