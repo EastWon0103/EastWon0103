@@ -11,7 +11,7 @@
 
 
 # Career
-> Koscom: PowerBase Trading Services Team (25.01 ~ now)
+- Koscom: PowerBase Trading Services Team (25.01 ~ now)
 
 <div align="center"><h3>👇🏼 Look Around </h3></div>
 <div align="center">
